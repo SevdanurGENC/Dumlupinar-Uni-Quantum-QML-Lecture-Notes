@@ -5,7 +5,7 @@ Bu depo, Dumlupınar Üniversitesi Kuantum Teknolojileri Topluluğu tarafından 
 
 ---
 
-## 🤖 Klasik Makine Öğrenmesi — Adım Adım Tam Pipeline
+## Klasik Makine Öğrenmesi — Adım Adım Tam Pipeline
 
 Bu bölümde, temel makine öğrenmesi süreçlerinin uçtan uca nasıl kurgulandığını inceleyeceğiz.
 
@@ -23,7 +23,7 @@ Bu bölümde, temel makine öğrenmesi süreçlerinin uçtan uca nasıl kurgulan
 
 ---
 
-## 🔬 Kuantum Makine Öğrenmesi (QML) Workshop
+## Kuantum Makine Öğrenmesi (QML) Workshop
 
 Bu bölümde, kuantum hesaplamanın temellerinden başlayarak hibrit kuantum-klasik yapay zeka modellerinin nasıl oluşturulduğunu öğreneceğiz.
 
@@ -42,8 +42,8 @@ Bu bölümde, kuantum hesaplamanın temellerinden başlayarak hibrit kuantum-kla
 * **BÖLÜM 7:** Data Re-Uploading ile Evrensel Sınıflandırıcı
   * Data Re-Uploading (Tekrar Tekrar Okutarak Evrensel Zeka Yaratmak)
 * **BÖLÜM 8:** Mevcut Zorluklar ve Gelecek
-* **BÖLÜM 9:** Alıştırmalar 🏋️
-  * Alıştırma 2 — Orta ⭐⭐
-  * Alıştırma 3 — İleri ⭐⭐⭐
+* **BÖLÜM 9:** Alıştırmalar
+  * Alıştırma 2 — Orta
+  * Alıştırma 3 — İleri
 * **BÖLÜM 10:** Özet ve Sonraki Adımlar
 
