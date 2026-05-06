@@ -1,11 +1,7 @@
 # Dumlupinar-Uni-Quantum-QML-Lecture-Notes
 This repository was created as lecture notes for the event titled "Quantum Machine Learning" organised by the Quantum Technologies Society at Dumlupınar University.
 
-Bu depo, Dumlupınar Üniversitesi Kuantum Teknolojileri Topluluğu tarafından düzenlenen "Kuantum Makine Öğrenimi" başlıklı etkinlik için ders notu olarak oluşturulmuştur.
- 
-# 🚀 Makine Öğrenmesi & QML Workshop Serisi
-
-Bu depo, veri bilimi yolculuğuna Klasik Makine Öğrenmesi ile başlayıp Kuantum Makine Öğrenmesi (QML) ile ileri seviyeye taşıyan iki kapsamlı atölye çalışmasının materyallerini içermektedir.
+Bu depo, Dumlupınar Üniversitesi Kuantum Teknolojileri Topluluğu tarafından düzenlenen "Kuantum Makine Öğrenimi" başlıklı etkinlik için ders notu olarak oluşturulmuştur. Aynı zamanda, veri bilimi yolculuğuna Klasik Makine Öğrenmesi ile başlayıp Kuantum Makine Öğrenmesi (QML) ile ileri seviyeye taşıyan iki kapsamlı atölye çalışmasının materyallerini içermektedir.
 
 ---
 
